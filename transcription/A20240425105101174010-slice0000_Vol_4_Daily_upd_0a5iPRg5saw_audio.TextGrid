@@ -1,0 +1,302 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 128.3
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 128.3
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.4
+			text = "0"
+		intervals [2]:
+			xmin = 6.4
+			xmax = 9.81
+			text = ""
+		intervals [3]:
+			xmin = 9.81
+			xmax = 9.91
+			text = "0"
+		intervals [4]:
+			xmin = 9.91
+			xmax = 11.71
+			text = ""
+		intervals [5]:
+			xmin = 11.71
+			xmax = 11.91
+			text = "0"
+		intervals [6]:
+			xmin = 11.91
+			xmax = 18.81
+			text = ""
+		intervals [7]:
+			xmin = 18.81
+			xmax = 19.11
+			text = "0"
+		intervals [8]:
+			xmin = 19.11
+			xmax = 24.82
+			text = ""
+		intervals [9]:
+			xmin = 24.82
+			xmax = 24.92
+			text = "0"
+		intervals [10]:
+			xmin = 24.92
+			xmax = 33.33
+			text = ""
+		intervals [11]:
+			xmin = 33.33
+			xmax = 33.63
+			text = "0"
+		intervals [12]:
+			xmin = 33.63
+			xmax = 37.83
+			text = ""
+		intervals [13]:
+			xmin = 37.83
+			xmax = 38.03
+			text = "0"
+		intervals [14]:
+			xmin = 38.03
+			xmax = 42.43
+			text = ""
+		intervals [15]:
+			xmin = 42.43
+			xmax = 42.63
+			text = "0"
+		intervals [16]:
+			xmin = 42.63
+			xmax = 55.24
+			text = ""
+		intervals [17]:
+			xmin = 55.24
+			xmax = 55.34
+			text = "0"
+		intervals [18]:
+			xmin = 55.34
+			xmax = 59.95
+			text = ""
+		intervals [19]:
+			xmin = 59.95
+			xmax = 61.25
+			text = "0"
+		intervals [20]:
+			xmin = 61.25
+			xmax = 81.56
+			text = ""
+		intervals [21]:
+			xmin = 81.56
+			xmax = 81.76
+			text = "0"
+		intervals [22]:
+			xmin = 81.76
+			xmax = 100.88
+			text = ""
+		intervals [23]:
+			xmin = 100.88
+			xmax = 128.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 128.3
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.4
+			text = "0"
+		intervals [2]:
+			xmin = 6.4
+			xmax = 9.81
+			text = "de duko sujopo thejukopiikiimesesido"
+		intervals [3]:
+			xmin = 9.81
+			xmax = 9.91
+			text = "0"
+		intervals [4]:
+			xmin = 9.91
+			xmax = 11.71
+			text = "ha thujui cholleko hijiba"
+		intervals [5]:
+			xmin = 11.71
+			xmax = 11.91
+			text = "0"
+		intervals [6]:
+			xmin = 11.91
+			xmax = 18.81
+			text = "Indialeikede puriko corona virus saruna World Health Organisation (WHO) report khakese."
+		intervals [7]:
+			xmin = 18.81
+			xmax = 19.11
+			text = "0"
+		intervals [8]:
+			xmin = 19.11
+			xmax = 24.82
+			text = "Bay of Bengallii cheche sikta Nagalandlii covid positive thayo."
+		intervals [9]:
+			xmin = 24.82
+			xmax = 24.92
+			text = "0"
+		intervals [10]:
+			xmin = 24.92
+			xmax = 33.33
+			text = "Maharashtra CM kiinga kiisiila gelon sartiki Dimapur DC kariiluikuchu hegechii khagoto thejo khagese."
+		intervals [11]:
+			xmin = 33.33
+			xmax = 33.63
+			text = "0"
+		intervals [12]:
+			xmin = 33.63
+			xmax = 37.83
+			text = "kukharowe kiijiichele kiibako tusojo hukhrogese"
+		intervals [13]:
+			xmin = 37.83
+			xmax = 38.03
+			text = "0"
+		intervals [14]:
+			xmin = 38.03
+			xmax = 42.43
+			text = "Whatsappli covid-19 vaccine wakhai kawerrchekta"
+		intervals [15]:
+			xmin = 42.43
+			xmax = 42.63
+			text = "0"
+		intervals [16]:
+			xmin = 42.63
+			xmax = 55.24
+			text = "Talibanko Kabul governor merior muthoki kresorlimi unemploymentla maarharkhaba tinhila millionpii point kiina sakta"
+		intervals [17]:
+			xmin = 55.24
+			xmax = 55.34
+			text = "0"
+		intervals [18]:
+			xmin = 55.34
+			xmax = 59.95
+			text = "Asian Youth Boxing semi finallii Indiami midavoki"
+		intervals [19]:
+			xmin = 59.95
+			xmax = 61.25
+			text = "0"
+		intervals [20]:
+			xmin = 61.25
+			xmax = 81.56
+			text = "Indiale Covid-19 saro kiimiikagiiti puthopurhibichebagatapose musiinakathikhoiho puthopiibamiinede putholhiibagiita endemicity thaokhobataekhiive World Health Organisation Chief Scientist Dr. Soumiya Swaminathaniyeposiite"
+		intervals [21]:
+			xmin = 81.56
+			xmax = 81.76
+			text = "0"
+		intervals [22]:
+			xmin = 81.76
+			xmax = 100.88
+			text = "khmadibide kathiyojikiidul hubiitiishiigiti sekiitona pu endemic state siba muijriyotiiso pradethiimamuka wokotaojikukressosise kiithewthithikropiile prajujo mu dinho valley makro dole"
+		intervals [23]:
+			xmin = 100.88
+			xmax = 128.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 128.3
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.4
+			text = "0"
+		intervals [2]:
+			xmin = 6.4
+			xmax = 9.81
+			text = ""
+		intervals [3]:
+			xmin = 9.81
+			xmax = 9.91
+			text = "0"
+		intervals [4]:
+			xmin = 9.91
+			xmax = 11.71
+			text = ""
+		intervals [5]:
+			xmin = 11.71
+			xmax = 11.91
+			text = "0"
+		intervals [6]:
+			xmin = 11.91
+			xmax = 18.81
+			text = ""
+		intervals [7]:
+			xmin = 18.81
+			xmax = 19.11
+			text = "0"
+		intervals [8]:
+			xmin = 19.11
+			xmax = 24.82
+			text = ""
+		intervals [9]:
+			xmin = 24.82
+			xmax = 24.92
+			text = "0"
+		intervals [10]:
+			xmin = 24.92
+			xmax = 33.33
+			text = ""
+		intervals [11]:
+			xmin = 33.33
+			xmax = 33.63
+			text = "0"
+		intervals [12]:
+			xmin = 33.63
+			xmax = 37.83
+			text = ""
+		intervals [13]:
+			xmin = 37.83
+			xmax = 38.03
+			text = "0"
+		intervals [14]:
+			xmin = 38.03
+			xmax = 42.43
+			text = ""
+		intervals [15]:
+			xmin = 42.43
+			xmax = 42.63
+			text = "0"
+		intervals [16]:
+			xmin = 42.63
+			xmax = 55.24
+			text = ""
+		intervals [17]:
+			xmin = 55.24
+			xmax = 55.34
+			text = "0"
+		intervals [18]:
+			xmin = 55.34
+			xmax = 59.95
+			text = ""
+		intervals [19]:
+			xmin = 59.95
+			xmax = 61.25
+			text = "0"
+		intervals [20]:
+			xmin = 61.25
+			xmax = 81.56
+			text = ""
+		intervals [21]:
+			xmin = 81.56
+			xmax = 81.76
+			text = "0"
+		intervals [22]:
+			xmin = 81.76
+			xmax = 100.88
+			text = ""
+		intervals [23]:
+			xmin = 100.88
+			xmax = 128.3
+			text = "0"

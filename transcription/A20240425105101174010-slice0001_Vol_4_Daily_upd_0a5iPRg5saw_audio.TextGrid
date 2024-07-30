@@ -1,0 +1,182 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 122.7
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 122.7
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = ""
+		intervals [2]:
+			xmin = 4.4
+			xmax = 29.02
+			text = ""
+		intervals [3]:
+			xmin = 29.02
+			xmax = 29.32
+			text = "0"
+		intervals [4]:
+			xmin = 29.32
+			xmax = 55.04
+			text = ""
+		intervals [5]:
+			xmin = 55.04
+			xmax = 55.55
+			text = "0"
+		intervals [6]:
+			xmin = 55.55
+			xmax = 72.16
+			text = ""
+		intervals [7]:
+			xmin = 72.16
+			xmax = 72.46
+			text = "0"
+		intervals [8]:
+			xmin = 72.46
+			xmax = 86.17
+			text = ""
+		intervals [9]:
+			xmin = 86.17
+			xmax = 86.47
+			text = "0"
+		intervals [10]:
+			xmin = 86.47
+			xmax = 98.08
+			text = ""
+		intervals [11]:
+			xmin = 98.08
+			xmax = 98.48
+			text = "0"
+		intervals [12]:
+			xmin = 98.48
+			xmax = 122.6
+			text = ""
+		intervals [13]:
+			xmin = 122.6
+			xmax = 122.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 122.7
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = "putuhu kiichi kiikhiikuki chitayika veriposa"
+		intervals [2]:
+			xmin = 4.4
+			xmax = 29.02
+			text = "uttarpradesh siiziikiijiisije riinakakinada cho kilometer krakiina hethichen sharitdole chechesimer rakhisile Bay of Bengal jiikiijo mu chinai chiichori kiithiwokta posa nhakiibakrikiinha minutes mripunguje cheche richter scale 5.1 khokoti second hole malaysia"
+		intervals [3]:
+			xmin = 29.02
+			xmax = 29.32
+			text = "0"
+		intervals [4]:
+			xmin = 29.32
+			xmax = 55.04
+			text = ""
+		intervals [5]:
+			xmin = 55.04
+			xmax = 55.55
+			text = "0"
+		intervals [6]:
+			xmin = 55.55
+			xmax = 72.16
+			text = ""
+		intervals [7]:
+			xmin = 72.16
+			xmax = 72.46
+			text = "0"
+		intervals [8]:
+			xmin = 72.46
+			xmax = 86.17
+			text = ""
+		intervals [9]:
+			xmin = 86.17
+			xmax = 86.47
+			text = "0"
+		intervals [10]:
+			xmin = 86.47
+			xmax = 98.08
+			text = ""
+		intervals [11]:
+			xmin = 98.08
+			xmax = 98.48
+			text = "0"
+		intervals [12]:
+			xmin = 98.48
+			xmax = 122.6
+			text = ""
+		intervals [13]:
+			xmin = 122.6
+			xmax = 122.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 122.7
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = ""
+		intervals [2]:
+			xmin = 4.4
+			xmax = 29.02
+			text = ""
+		intervals [3]:
+			xmin = 29.02
+			xmax = 29.32
+			text = "0"
+		intervals [4]:
+			xmin = 29.32
+			xmax = 55.04
+			text = ""
+		intervals [5]:
+			xmin = 55.04
+			xmax = 55.55
+			text = "0"
+		intervals [6]:
+			xmin = 55.55
+			xmax = 72.16
+			text = ""
+		intervals [7]:
+			xmin = 72.16
+			xmax = 72.46
+			text = "0"
+		intervals [8]:
+			xmin = 72.46
+			xmax = 86.17
+			text = ""
+		intervals [9]:
+			xmin = 86.17
+			xmax = 86.47
+			text = "0"
+		intervals [10]:
+			xmin = 86.47
+			xmax = 98.08
+			text = ""
+		intervals [11]:
+			xmin = 98.08
+			xmax = 98.48
+			text = "0"
+		intervals [12]:
+			xmin = 98.48
+			xmax = 122.6
+			text = ""
+		intervals [13]:
+			xmin = 122.6
+			xmax = 122.7
+			text = "0"

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 47.2
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 47.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 5.09
+			text = ""
+		intervals [3]:
+			xmin = 5.09
+			xmax = 5.13
+			text = "0"
+		intervals [4]:
+			xmin = 5.13
+			xmax = 14.04
+			text = ""
+		intervals [5]:
+			xmin = 14.04
+			xmax = 47.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 47.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 5.09
+			text = "Sikkim Chief Minister PS Tamang ne jo isaturdaynha pose"
+		intervals [3]:
+			xmin = 5.09
+			xmax = 5.13
+			text = "0"
+		intervals [4]:
+			xmin = 5.13
+			xmax = 14.04
+			text = "thiche thorro jenerrii chrijo piinha tutunya kanna miijo kanale Himalayan State Mineral Water package yo khabagato pose"
+		intervals [5]:
+			xmin = 14.04
+			xmax = 47.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 47.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 5.09
+			text = ""
+		intervals [3]:
+			xmin = 5.09
+			xmax = 5.13
+			text = "0"
+		intervals [4]:
+			xmin = 5.13
+			xmax = 14.04
+			text = ""
+		intervals [5]:
+			xmin = 14.04
+			xmax = 47.2
+			text = "0"
